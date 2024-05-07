@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/donisaputradev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="donisaputradev" height="40" width="80" /></a>
-<a href="https://instagram.com/donisaputradev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="donisaputradev" height="40" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
